@@ -1,0 +1,16 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.main-card {
+    background-color: hsl(216, 50%, 16%);
+    width: 260px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.main-image {
+    width: 230px;
+    border-radius: 5px;
+}
